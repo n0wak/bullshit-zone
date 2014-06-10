@@ -1,2 +1,1 @@
-emoji.zone
-==========
+Fork of https://github.com/julescarbon/emoji-zone inspired by https://github.com/kzmeyao/bumpin
